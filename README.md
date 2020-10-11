@@ -10,3 +10,4 @@ Each to-do item is rendered with a “complete” button that has an event liste
 
 In order to colour-code the segments, I have created a loop over all “a” elements in the document, checking for an element IDs which match the current hour (from moment.js). Each segment has been allocated an ID which matches it’s hour (09,10,11,12,13,14,15,16,17). Background colour are changed depending on whether they are in the past, present or future.
 
+https://andrewmiddleton1.github.io/Bootcamp-Homework-Week-5/
